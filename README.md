@@ -1,2 +1,2 @@
 # SuperVised-ML
-Supervised machine learning algorithms along with datasets
+Supervised machine learning algorithms along with datasets            
